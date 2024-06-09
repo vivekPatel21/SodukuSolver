@@ -1,4 +1,4 @@
-﻿# SodukuSolver
+﻿## SodukuSolver :pencil2:
 
 This reads input files for soduku boards, and than looks for the solution to the sodoku board through backtracking and looking through many different versions of the board.
 
